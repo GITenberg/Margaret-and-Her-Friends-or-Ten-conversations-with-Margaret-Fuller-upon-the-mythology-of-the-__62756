@@ -1,0 +1,44 @@
+_repo: Margaret-and-Her-Friends-or-Ten-conversations-with-Margaret-Fuller-upon-the-mythology-of-the-__62756
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dall, Caroline Wells Healey
+    aliases:
+    - Dall, Caroline Healey
+    - Dall, Caroline H.
+    - Healey, Caroline Wells
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '5122'
+    url: http://www.gutenberg.org/2009/agents/5122
+    wikipedia: https://en.wikipedia.org/wiki/Caroline_Healey_Dall
+  - agent_name: Fuller, Margaret
+    aliases:
+    - Fuller, S. Margaret (Sarah Margaret)
+    - Fuller, Sara Margarita
+    - Ossoli, Sara Margarita
+    - Ossoli, Margaret Fuller
+    birthdate: 1810
+    deathdate: 1850
+    gutenberg_agent_id: '2829'
+    url: http://www.gutenberg.org/2009/agents/2829
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Fuller
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62756'
+  lccn: '31031272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology, Greek'
+- !lcsh 'Mythology, Classical, in art'
+- GITenberg
+title: "Margaret and Her Friends\r\nor, Ten conversations with Margaret Fuller upon\
+  \ the mythology of the Greeks and its expression in art, held at the house of the\
+  \ Rev. George Ripley, Bedford Place, Boston, beginning March 1, 1841"
+url: http://www.gutenberg.org/ebooks/62756
